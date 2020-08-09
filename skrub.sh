@@ -4,7 +4,7 @@ paccache -r
 paccache -ruk0
 pacman -Syuu
 
-# new mirrors uwu
+# new mirrors 
 
 pacman -S --noconfirm pacman-contrib
 mv /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.backup
